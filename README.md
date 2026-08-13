@@ -39,4 +39,4 @@ The dashboard helps identify profitable and loss-making months, understand custo
 The main goal of this project was to practice real-world **data analytics and business intelligence** by converting raw e-commerce data into an interactive dashboard that presents important business insights in a simple and visually effective way.
 
 Screenshot / Demos
-show what the dashboard look like - 
+show what the dashboard look like - https://github.com/Tusharkumar202/Sale-dashboard-/blob/main/Annotation%202026-08-14%20015855.png
